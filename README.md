@@ -10,7 +10,7 @@ An interactive Power BI dashboard analyzing sales performance, customer ordering
 ---
 
 ## 🛠️ Tools & Technologies Used
-* **Power BI Desktop:** Data modeling, DAX measures, interactive visualizations
+* **Power BI Desktop:** Data modeling, interactive visualizations
 * **Microsoft Excel:** Initial data cleaning and ETL
 * **DAX:** Dynamic KPI calculations (Sales Growth, Feedback Score, Average Order Value)
 
@@ -24,5 +24,5 @@ An interactive Power BI dashboard analyzing sales performance, customer ordering
 ---
 
 ## 🚀 How to Interact with the Dashboard
-1. Download the `.pbix` file from this repository: `Tasty_Bites_Dashboard.pbix`.
-2. Open the file in **Power BI Desktop** to explore the interactive slicers, cross-filtering, and DAX measures.
+1. 1. Download the `.pbix` file from this repository: `Tasty_Bites_Restaurant.pbix`.
+2. Open the file in **Power BI Desktop** to explore the interactive slicers, and cross-filtering.
