@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 An interactive Power BI dashboard analyzing sales performance, customer ordering trends, and menu profitability for Tasty Bites Restaurant. This project identifies operational bottlenecks and models revenue growth strategies.
 
-### 📑 Executive Presentation
+### 📑 Stakeholder Presentation
 * 📊 [View Executive Presentation Slides (PPTX)](./Tasty_Bites_Executive_Presentation.pptx)
 ---
 
