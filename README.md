@@ -3,6 +3,8 @@
 ## 📊 Project Overview
 An interactive Power BI dashboard analyzing sales performance, customer ordering trends, and menu profitability for Tasty Bites Restaurant. This project identifies operational bottlenecks and models revenue growth strategies.
 
+### 📑 Executive Presentation
+* 📊 [View Executive Presentation Slides (PPTX)](./Tasty_Bites_Executive_Presentation.pptx)
 ---
 
 ## 📈 Dashboard Preview
@@ -26,3 +28,7 @@ An interactive Power BI dashboard analyzing sales performance, customer ordering
 ## 🚀 How to Interact with the Dashboard
 1. 1. Download the `.pbix` file from this repository: `Tasty_Bites_Restaurant.pbix`.
 2. Open the file in **Power BI Desktop** to explore the interactive slicers, and cross-filtering.
+
+## 🚀 How to Interact with the Project
+1. **Review the Strategy Deck:** Click the link above to view the **Tasty_Bites_Executive_Presentation.pptx** for business insights and 90-day growth recommendations.
+2. **Explore the Power BI Model:** Download `Tasty_Bites_Restaurant.pbix` and open it in **Power BI Desktop** to interact with the filters, dynamic DAX measures, and sales breakdowns.
